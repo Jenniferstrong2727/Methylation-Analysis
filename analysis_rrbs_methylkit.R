@@ -16,8 +16,8 @@
 #  - UCSC/Table Browser export (BED) for gene annotation workflow
 #  - OPTIONAL: integration with expression + enrichment (clusterProfiler)
 #
-# Author: <you>
-# Last updated: <date>
+# Author: <>
+# Last updated: <>
 ############################################################
 
 suppressPackageStartupMessages({
